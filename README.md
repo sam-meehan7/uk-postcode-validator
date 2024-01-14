@@ -31,7 +31,7 @@ A step by step series of examples that tell you how to get a development environ
 
 2. **Navigate To The Directory**
    ```sh
-   cd your-repo-name
+   cd uk-postcode-validator
    ```
 3. **Install Required Packages**
    ```sh
