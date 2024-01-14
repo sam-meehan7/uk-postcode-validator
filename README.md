@@ -1,4 +1,4 @@
-# UK Postcode Validation and Formatting API
+# UK Postcode Validation and Formatting Library
 
 This project provides an API for validating and formatting UK postcodes. It's built using FastAPI and can be deployed easily for testing and use.
 
